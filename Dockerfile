@@ -1,4 +1,4 @@
-FROM daxia2023/ndjs:user-30-argo-nez2
+FROM daxia2023/ndjs:user-30-argo-nez
 
 # 基本通用目前已知docker平台
 
